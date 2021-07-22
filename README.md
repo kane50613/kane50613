@@ -1,7 +1,7 @@
 # Coding is everything.
 
 ## Contact me through ##
-- email <contact@kanetw.tk>
+- email <contact@ka>
 - Discord 凱恩Kane#5384
 
 ***
