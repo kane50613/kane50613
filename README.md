@@ -7,4 +7,5 @@
 ***
 
 ![My Github status](https://github-readme-stats.vercel.app/api?username=Gary50613&count_private=true&show_icons=true&theme=radical)<br/>
-![My mose used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Gary50613&&theme=radical&layout=compact)
+![My mose used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Gary50613&&theme=radical&layout=compact)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gary50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
