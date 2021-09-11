@@ -1,7 +1,7 @@
 # Coding is everything.
 
 ## Contact me through ##
-- email <contact@ka1e.co>
+- email <kane@iskane.me>
 - Discord 凱恩Kane#5384
 
 ***
