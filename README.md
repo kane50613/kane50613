@@ -21,7 +21,7 @@
 800+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.tk](https://yeecord.tk)
+- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.co](https://yeecord.co)
 - <img src="icon/code.svg" width="16px" alt="code language"> JavaScript
 
 ## $(whenami)
