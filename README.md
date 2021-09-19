@@ -1,7 +1,5 @@
 # Coding is everything.
 
----
-
 <img src="img/avatar.png" width="128px" alt="凱恩Kane">
 
 ## $(whoami)
