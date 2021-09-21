@@ -13,7 +13,7 @@
 
 - [<img src="icon/discord.svg" width="16px" alt="Discord"> Discord](https://discord.gg/ct2ufag)
 - [<img src="icon/github.svg" width="16px" alt="Github"> Github](https://github.com/Gary50613)
-- <img src="icon/envelope.svg" width="16px" alt="Email"> Email - `echo "Y29udGFjdEBrYTFlLmNv" | base64 -d`
+- <img src="icon/envelope.svg" width="16px" alt="Email"> Email - [kane@iskane.me](mailto:kane@iskane.me?)
 
 ## $(whatami)
 
