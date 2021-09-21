@@ -24,6 +24,11 @@
 - <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.co](https://yeecord.co)
 - <img src="icon/code.svg" width="16px" alt="code language"> JavaScript
 
+### 2021 雲端職業證書挑戰賽
+逢甲大學雲創學院與 Amazon Web Services (AWS) 推出雲端職業證書挑戰賽，推廣雲端科技相關知識與應用
+
+[活動頁面](https://events.fcucis.com/badgecompetition2021/)
+
 ## $(whenami)
 
 - [Google Cloud 開發者技術培訓計畫 2021](https://events.withgoogle.com/cloud-study-jam-2021-twhk/)
