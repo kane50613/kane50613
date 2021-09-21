@@ -27,7 +27,7 @@
 ### 2021 雲端職業證書挑戰賽
 逢甲大學雲創學院與 Amazon Web Services (AWS) 推出雲端職業證書挑戰賽，推廣雲端科技相關知識與應用
 
-[活動頁面](https://events.fcucis.com/badgecompetition2021/)
+- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://events.fcucis.com/badgecompetition2021/](https://events.fcucis.com/badgecompetition2021/)
 
 ## $(whenami)
 
