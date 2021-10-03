@@ -1,6 +1,6 @@
-# Coding is everything.
+# [Coding is everything.](https://iskane.me/)
 
-<img src="img/avatar.png" width="128px" alt="凱恩Kane">
+[<img src="img/avatar.png" width="128px" alt="凱恩Kane">](https://iskane.me/)
 
 ## $(whoami)
 
@@ -11,6 +11,7 @@
 
 ## $(whereami)
 
+- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://iskane.me/](https://iskane.me/)
 - [<img src="icon/discord.svg" width="16px" alt="Discord"> Discord](https://discord.gg/ct2ufag)
 - [<img src="icon/github.svg" width="16px" alt="Github"> Github](https://github.com/Gary50613)
 - <img src="icon/envelope.svg" width="16px" alt="Email"> Email - [kane@iskane.me](mailto:kane@iskane.me?)
@@ -21,7 +22,7 @@
 800+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.co](https://yeecord.co)
+- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.co/](https://yeecord.co/)
 - <img src="icon/code.svg" width="16px" alt="code language"> JavaScript
 
 ### 2021 雲端職業證書挑戰賽
