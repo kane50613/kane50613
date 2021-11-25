@@ -30,6 +30,10 @@
 
 - <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://events.fcucis.com/badgecompetition2021/](https://events.fcucis.com/badgecompetition2021/)
 
+### 線上進位計算機
+輸入十進位 / 二進位 / 十六進位 / 八進位數字快速轉換
+- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://calc.iskane.me/](https://calc.iskane.me/)
+
 ## $(whenami)
 
 - [Google Cloud 開發者技術培訓計畫 2021](https://events.withgoogle.com/cloud-study-jam-2021-twhk/)
