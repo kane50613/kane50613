@@ -19,7 +19,7 @@
 ## $(whatami)
 
 ### Yeecord - YEE式機器龍
-800+ 個伺服器正在使用的
+2000+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
 - <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.co/](https://yeecord.co/)
