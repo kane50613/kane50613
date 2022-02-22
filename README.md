@@ -7,22 +7,22 @@
 嗨嗨，我是凱恩，
 從兩年前一次意外的 Google 搜尋讓我踏入了 Web Development 這個神奇的領域，
 在過程中自己漸漸摸索了 JavaScript 這個大坑 >__<，
-最近也開始朝向 [Vue](https://vuejs.org/) 和 [React](https://zh-hant.reactjs.org/) 研究
+最近也開始朝向 [Vue](https://vuejs.org/) 和 [React](https://zh-hant.reactjs.org/) 研究，還有PHP —— _我真的不懂PHP是蝦 - 凱恩 2021_
 
 ## $(whereami)
 
 - <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://iskane.me/](https://iskane.me/)
-- [<img src="icon/discord.svg" width="16px" alt="Discord"> Discord](https://discord.gg/ct2ufag)
+- [<img src="icon/discord.svg" width="16px" alt="Discord"> Discord](https://discord.gg/yeecord)
 - [<img src="icon/github.svg" width="16px" alt="Github"> Github](https://github.com/Gary50613)
-- <img src="icon/envelope.svg" width="16px" alt="Email"> Email - [kane@iskane.me](mailto:kane@iskane.me?)
+- <img src="icon/envelope.svg" width="16px" alt="Email"> Email - [kane@yeecord.com](mailto:kane@yeecord.com)
 
 ## $(whatami)
 
 ### Yeecord - YEE式機器龍
-2000+ 個伺服器正在使用的
+10000+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.co/](https://yeecord.co/)
+- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.com/](https://yeecord.com/)
 - <img src="icon/code.svg" width="16px" alt="code language"> JavaScript
 
 ### 2021 雲端職業證書挑戰賽
