@@ -1,6 +1,9 @@
-# [Coding is everything.](https://iskane.me/)
-
-[<img src="img/avatar.png" width="128px" alt="凱恩Kane">](https://iskane.me/)
+<a href="https://iskane.me/">
+  <h1 align="center">Coding is everything.</h1>
+</a>
+<p align="center">
+  <img src="img/avatar.png" width="128px" alt="凱恩Kane"/>
+</p>
 
 ## $(whoami)
 
@@ -43,11 +46,8 @@
 - [第51屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
 - [AWS GameDay中區交流賽](https://www.iecs.fcu.edu.tw/news/AWS%20GameDay中區交流賽/)
 
-
-***
-
 ## $(howami)
 
-![My Github status](https://github-readme-stats.vercel.app/api?username=Gary50613&count_private=true&show_icons=true&theme=radical)<br/>
-![My mose used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Gary50613&&theme=radical&layout=compact)<br/>
+![My Github status](https://github-readme-stats.vercel.app/api?username=Gary50613&count_private=true&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gary50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Activity Graph](http://activity-graph.herokuapp.com/graph?username=Gary50613&bg_color=161B22&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
