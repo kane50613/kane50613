@@ -1,6 +1,6 @@
-<a href="https://iskane.me/">
-  <h1 align="center">Coding is everything.</h1>
-</a>
+<h1 align="center">
+  <a href="https://iskane.me/">Coding is everything.<a/>
+</h1>
 <p align="center">
   <img src="img/avatar.png" width="128px" alt="凱恩Kane"/>
 </p>
