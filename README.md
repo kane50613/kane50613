@@ -22,7 +22,7 @@
 ## $(whatami)
 
 ### Yeecord - YEE式機器龍
-50000+ 個伺服器正在使用的
+80000+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
 [![Yeecord](https://discord.com/api/guilds/600363644991176822/widget.png?style=banner2)](https://discord.gg/yeecord)
@@ -44,6 +44,7 @@
 - [Google Cloud 開發者技術培訓計畫 2021](https://events.withgoogle.com/cloud-study-jam-2021-twhk/)
 - [Android App 開發培訓計劃 2021](https://events.withgoogle.com/android-study-jam-twhk-2021/)
 - [第51屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
+- [第52屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
 - [AWS GameDay中區交流賽](https://www.iecs.fcu.edu.tw/news/AWS%20GameDay中區交流賽/)
 
 ## $(howami)
