@@ -12,32 +12,68 @@
 在過程中自己漸漸摸索了 JavaScript 這個大坑 >__<，
 最近也開始朝向 [Vue](https://vuejs.org/) 和 [React](https://zh-hant.reactjs.org/) 研究，還有PHP —— _我真的不懂PHP是蝦 - 凱恩 2021_
 
-## $(whereami)
+[kane@yeecord.com](mailto:kane@yeecord.com)
 
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://iskane.me/](https://iskane.me/)
-- [<img src="icon/discord.svg" width="16px" alt="Discord"> Discord](https://discord.gg/yeecord)
-- [<img src="icon/github.svg" width="16px" alt="Github"> Github](https://github.com/Gary50613)
-- <img src="icon/envelope.svg" width="16px" alt="Email"> Email - [kane@yeecord.com](mailto:kane@yeecord.com)
+## 技能樹
+
+### Front-end
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+
+### Back-end
+
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](#)
+[![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+
+### Data
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#)
+
+### Cloud
+
+[![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#)
+[![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](#)
 
 ## $(whatami)
 
-### Yeecord - YEE式機器龍
-80000+ 個伺服器正在使用的
+### YEE式機器龍 (Yeecord)
+
+80,000+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 
 [![Yeecord](https://discord.com/api/guilds/600363644991176822/widget.png?style=banner2)](https://discord.gg/yeecord)
 
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://yeecord.com/](https://yeecord.com/)
-- <img src="icon/code.svg" width="16px" alt="code language"> JavaScript
+- [https://yeecord.com/](https://yeecord.com/)
 
 ### 2021 雲端職業證書挑戰賽
+
 逢甲大學雲創學院與 Amazon Web Services (AWS) 推出雲端職業證書挑戰賽，推廣雲端科技相關知識與應用
 
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://events.fcucis.com/badgecompetition2021/](https://events.fcucis.com/badgecompetition2021/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+
+- [https://events.fcucis.com/badgecompetition2021/](https://events.fcucis.com/badgecompetition2021/)
 
 ### 線上進位計算機
+
 輸入十進位 / 二進位 / 十六進位 / 八進位數字快速轉換
-- <img src="icon/window-maximize.svg" alt="website" width="16px"> [https://calc.iskane.me/](https://calc.iskane.me/)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+
+- [https://calc.iskane.me/](https://calc.iskane.me/)
 
 ## $(whenami)
 
