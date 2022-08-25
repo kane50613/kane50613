@@ -12,7 +12,8 @@
 在過程中自己漸漸摸索了 JavaScript 這個大坑 >__<，
 最近也開始朝向 [Vue](https://vuejs.org/) 和 [React](https://zh-hant.reactjs.org/) 研究，還有PHP —— _我真的不懂PHP是蝦 - 凱恩 2021_
 
-[kane@yeecord.com](mailto:kane@yeecord.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yeecord)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kane@yeecord.com)
 
 ## 技能樹
 
@@ -52,8 +53,11 @@
 80,000+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#)
 
 [![Yeecord](https://discord.com/api/guilds/600363644991176822/widget.png?style=banner2)](https://discord.gg/yeecord)
 
