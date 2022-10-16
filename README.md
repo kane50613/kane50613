@@ -1,19 +1,18 @@
 <h1 align="center">
-  <a href="https://iskane.me/">Coding is everything.<a/>
+  Time to get Rusty!
 </h1>
 <p align="center">
-  <img src="img/avatar.png" width="128px" alt="凱恩Kane"/>
+  <img src="img/rust.gif" width="256" alt="Rust Happy Crab"/>
 </p>
 
-## $(whoami)
-
-嗨嗨，我是凱恩，
-從兩年前一次意外的 Google 搜尋讓我踏入了 Web Development 這個神奇的領域，
-在過程中自己漸漸摸索了 JavaScript 這個大坑 >__<，
-最近也開始朝向 [Vue](https://vuejs.org/) 和 [React](https://zh-hant.reactjs.org/) 研究，還有PHP —— _我真的不懂PHP是蝦 - 凱恩 2021_
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yeecord)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kane@yeecord.com)
+<p align="center">
+  <a href="https://discord.gg/yeecord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:kane@yeecord.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ## 技能樹
 
@@ -47,11 +46,11 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](#)
 
-## $(whatami)
+## 作品
 
 ### YEE式機器龍 (Yeecord)
 
-80,000+ 個伺服器正在使用的
+100,000+ 個伺服器正在使用的
 [Discord](https://discord.com) 中文全能機器人的最佳選擇
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
@@ -71,6 +70,7 @@
 
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 - [https://events.fcucis.com/badgecompetition2021/](https://events.fcucis.com/badgecompetition2021/)
 
@@ -80,17 +80,17 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 
-- [https://calc.iskane.me/](https://calc.iskane.me/)
+- [https://tools.yeecord.com/calculator/](https://tools.yeecord.com/calculator/)
 
-## $(whenami)
+## 參與紀錄
 
 - [Google Cloud 開發者技術培訓計畫 2021](https://events.withgoogle.com/cloud-study-jam-2021-twhk/)
 - [Android App 開發培訓計劃 2021](https://events.withgoogle.com/android-study-jam-twhk-2021/)
-- [第51屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
-- [第52屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
-- [AWS GameDay中區交流賽](https://www.iecs.fcu.edu.tw/news/AWS%20GameDay中區交流賽/)
+- [第 51 屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
+- [第 52 屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
+- [AWS GameDay 中區交流賽](https://www.iecs.fcu.edu.tw/news/AWS%20GameDay中區交流賽/)
 
-## $(howami)
+## 每日監督摸魚狀況
 
 ![My Github status](https://github-readme-stats.vercel.app/api?username=Gary50613&count_private=true&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gary50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
