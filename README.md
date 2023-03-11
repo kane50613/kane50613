@@ -17,6 +17,8 @@
 
 - [https://yeecord.com/](https://yeecord.com/)
 
+![Yeecord Card](https://discord-bot-profile-stats.vercel.app/api/stats)
+
 ### 2021 雲端職業證書挑戰賽
 
 逢甲大學雲創學院與 Amazon Web Services (AWS) 推出雲端職業證書挑戰賽，推廣雲端科技相關知識與應用
