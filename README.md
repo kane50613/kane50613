@@ -1,4 +1,4 @@
-🚀 I use **[T3 Stack](https://create.t3.gg)** to make web apps, then fall in love with **Rust**, deploy everything to **AWS**.
+🚀 I use **[T3 Stack](https://create.t3.gg)** to make web apps, then fall in love with **Rust** and **TypeScript**, finally deploy everything to **AWS**.
 
 <a href="https://discord.gg/yeecord">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
