@@ -17,7 +17,7 @@
 
 - [https://yeecord.com/](https://yeecord.com/)
 
-![Yeecord Card](https://discord-bot-profile-stats.vercel.app/api/stats)
+[![Yeecord Card](https://discord-bot-profile-stats.vercel.app/api/stats)](https://discord-bot-profile-stats.vercel.app)
 
 ### 2021 雲端職業證書挑戰賽
 
