@@ -17,7 +17,7 @@ Empowering Chinese communities with a Discord bot for music, RPG games, and more
 
 Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to launch a badge competition, spreading awareness of cloud computing.
 
-- [Read More](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=A2CA5A91B0DDB308)
+[Read More](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=A2CA5A91B0DDB308)
 
 ### AWS Community Day Taiwan 2023
 
