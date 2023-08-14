@@ -4,6 +4,7 @@
 
 - Discord: @kanewang
 - Email: [kane@yeecord.com](mailto:kane@yeecord.com)
+- Linkedin: [in/kanewangdev](www.linkedin.com/in/kanewangdev)
 
 ## Projects
 
