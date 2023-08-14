@@ -13,6 +13,8 @@ Empowering Chinese communities with a Discord bot for music, RPG games, and more
 
 [![Yeecord Bot Stats](https://discord-bot-profile-stats.vercel.app/api/stats)](https://discord-bot-profile-stats.vercel.app)
 
+[Read More](https://yeecord.com/)
+
 ### AWS Badge Competition 2021
 
 Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to launch a badge competition, spreading awareness of cloud computing.
@@ -24,6 +26,8 @@ Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to la
 An event led by community leaders for people to learn, exchange, and share the latest AWS technologies and best practices.
 
 I contributed to the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), with special thanks to [@franky920920](https://github.com/franky920920) and our partners.
+
+[Read More](https://awscmd.tw/)
 
 ## Competitions
 
