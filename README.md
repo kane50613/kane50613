@@ -23,7 +23,7 @@ Feng Chia University (FCU) collaborates with Amazon Web Services (AWS) to launch
 
 This is an event organized by community leaders for mutual learning and exchange, while also sharing the latest AWS technologies and best practices.
 
-I made the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), special thanks to [@frankychen](https://github.com/frankychen) and all partners.
+I made the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), special thanks to [@franky920920](https://github.com/franky920920) and all partners.
 
 ## Competitions
 
