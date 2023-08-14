@@ -1,50 +1,37 @@
-🚀 I use **[T3 Stack](https://create.t3.gg)** to make web apps, then fall in love with **Rust** and **TypeScript**, finally deploy everything to **AWS**.
+## Introduction
 
-<a href="https://discord.gg/yeecord">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="mailto:kane@yeecord.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+☕ Life is too short for all the new Javascript frameworks, just use **[create-t3-app](https://create.t3.gg)** for everything.
 
-### YEE式機器龍 (Yeecord)
+- Discord: @kanewang
+- [kane@yeecord.com](mailto:kane@yeecord.com)
 
-150,000+ 個伺服器正在使用的
-[Discord](https://discord.com) 中文全能機器人的最佳選擇
+## Projects
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+### Yeecord
 
-- [https://yeecord.com/](https://yeecord.com/)
+Discord bot for Chinese community to play music, RPG games, with over 200,000 servers trusting us.
 
 [![Yeecord Card](https://discord-bot-profile-stats.vercel.app/api/stats)](https://discord-bot-profile-stats.vercel.app)
 
-### 2021 雲端職業證書挑戰賽
+### AWS Badge Competition 2021
 
-逢甲大學雲創學院與 Amazon Web Services (AWS) 推出雲端職業證書挑戰賽，推廣雲端科技相關知識與應用
+Feng Chia University (FCU) collaborates with Amazon Web Services (AWS) to launch a badge competition, promoting knowledge of cloud computing.
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+- [Post](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=A2CA5A91B0DDB308)
 
-- [https://events.fcucis.com/badgecompetition2021/](https://events.fcucis.com/badgecompetition2021/)
+### AWS Community Day Taiwan 2023
 
-### 線上進位計算機
+This is an event organized by community leaders for mutual learning and exchange, while also sharing the latest AWS technologies and best practices.
 
-輸入十進位、二進位、十六進位、八進位數字快速轉換
+I made the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), special thanks to [@frankychen](https://github.com/frankychen) and all partners.
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](#)
+## Competitions
 
-- [https://tools.yeecord.com/calculator/](https://tools.yeecord.com/calculator/)
+- [The 51rd National Skills Competition](https://skillsweek.wdasec.gov.tw/skillsweek/)
+- [The 52rd National Skills Competition](https://skillsweek.wdasec.gov.tw/skillsweek/)
 
-## 參與紀錄
-
-- [Google Cloud 開發者技術培訓計畫 2021](https://events.withgoogle.com/cloud-study-jam-2021-twhk/)
-- [Android App 開發培訓計劃 2021](https://events.withgoogle.com/android-study-jam-twhk-2021/)
-- [第 51 屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
-- [第 52 屆全國技能競賽](https://skillsweek.wdasec.gov.tw/skillsweek/)
-- [AWS GameDay 中區交流賽](https://www.iecs.fcu.edu.tw/news/AWS%20GameDay中區交流賽/)
-
-## 每日監督摸魚狀況
+## Stats
 
 ![My Github status](https://github-readme-stats.vercel.app/api?username=Gary50613&count_private=true&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gary50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
