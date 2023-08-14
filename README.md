@@ -25,7 +25,7 @@ Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to la
 
 An event led by community leaders for people to learn, exchange, and share the latest AWS technologies and best practices.
 
-I contributed to the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), with special thanks to [@franky920920](https://github.com/franky920920) and our partners.
+I contributed to the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), with special thanks to [@franky920920](https://github.com/franky920920) and other awesome people.
 
 [Read More](https://awscmd.tw/)
 
