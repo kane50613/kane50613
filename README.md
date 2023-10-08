@@ -37,6 +37,6 @@ I contributed to the [homepage](https://awscmd.tw/) and [registration system](ht
 
 ## GitHub Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Gary50613&count_private=true&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=kane50613&count_private=true&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gary50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kane50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
