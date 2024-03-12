@@ -28,6 +28,7 @@ An event led by community leaders for people to learn, exchange, and share the l
 
 I contributed to the [homepage](https://awscmd.tw/) and [registration system](https://events.awscmd.tw/), with special thanks to [@franky920920](https://github.com/franky920920) and other awesome people.
 
+[Repo](https://github.com/kane50613/aws-community-day-taiwan-2023)
 [Read More](https://awscmd.tw/)
 
 ## Competitions
