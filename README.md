@@ -12,15 +12,9 @@
 
 Empowering Chinese communities with a Discord bot for music, RPG games, and more, trusted by over 200,000 servers.
 
-[![Yeecord Bot Stats](https://discord-bot-profile-stats.vercel.app/api/stats)](https://discord-bot-profile-stats.vercel.app)
+[![Yeecord Bot Stats](https://card.yeecord.com/)](https://github.com/kane50613/discord-bot-card)
 
 [Read More](https://yeecord.com/)
-
-### AWS Badge Competition 2021
-
-Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to launch a badge competition, spreading awareness of cloud computing.
-
-[Read More](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=A2CA5A91B0DDB308)
 
 ### AWS Community Day Taiwan 2023
 
@@ -30,6 +24,12 @@ I contributed to the [homepage](https://awscmd.tw/) and [registration system](ht
 
 [Repo](https://github.com/kane50613/aws-community-day-taiwan-2023)
 [Read More](https://awscmd.tw/)
+
+### AWS Badge Competition 2021
+
+Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to launch a badge competition, spreading awareness of cloud computing.
+
+[Read More](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=A2CA5A91B0DDB308)
 
 ## Competitions
 
