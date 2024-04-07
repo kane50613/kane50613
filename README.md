@@ -40,4 +40,4 @@ Collaborated with Feng Chia University (FCU) and Amazon Web Services (AWS) to la
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=kane50613&count_private=true&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kane50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kane50613&theme=dark&hide_border=true)](https://git.io/streak-stats)
