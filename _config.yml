@@ -1,3 +1,5 @@
+title: Kane Wang
+description: 🚀 Life is too short for all the new Javascript frameworks, just use create-t3-app for everything.
 plugins:
   - jekyll-relative-links
 relative_links:
