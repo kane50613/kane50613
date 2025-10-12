@@ -1,1 +1,1 @@
-There's literally no need for a portfolio website; my GitHub stats say it all.
+Why we need a fancy portfolio website when GitHub stats just works.
